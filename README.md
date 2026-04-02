@@ -50,13 +50,13 @@ A aplicação simula uma conta bancária com as seguintes operações:
 1. Clone o repositório:
 
 ```bash
-git clone <seu-link-aqui>
+git clone https://github.com/sarahrbz/Simulador-de-Conta-Bancaria
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd Simulador-de-Conta-Bancaria
 ```
 
 3. Compile o projeto:
