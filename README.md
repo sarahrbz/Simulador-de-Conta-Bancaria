@@ -45,33 +45,22 @@ A aplicação simula uma conta bancária com as seguintes operações:
 
 ---
 
-## 🖥️ Como executar
+## 🖥️ Como executar o projeto
+
+### ⚠️ Pré-requisitos
+- Java (JDK 8 ou superior)
 
 1. Clone o repositório:
-
-```bash
 git clone https://github.com/sarahrbz/Simulador-de-Conta-Bancaria
-```
 
-2. Acesse a pasta do projeto:
-
-```bash
+2. Acesse a pasta do projeto clonado:
 cd Simulador-de-Conta-Bancaria
-```
 
 3. Compile o projeto:
-
-```bash
-javac Main.java
-```
+javac *.java
 
 4. Execute:
-
-```bash
 java Main
-```
-
----
 
 ## 🎯 Objetivo
 
